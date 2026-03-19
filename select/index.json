@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Me, Myself & I",
+  "base_artist": "5 Seconds of Summer",
+  "createdAt": "2026-03-19T04:31:32.285080Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Me, Myself & I",
+      "artist": "Sammi Palinkas",
+      "has_synced": false,
+      "path": "select/01_Me,_Myself_&_I_Sammi_Palinkas.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Me Myself and Why",
+      "artist": "Alana Springsteen",
+      "has_synced": true,
+      "path": "select/02_Me_Myself_and_Why_Alana_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Me, Myself & I",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/03_Me,_Myself_&_I_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Me Myself And I",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/04_Me_Myself_And_I_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Me, Myself & I",
+      "artist": "Temperance",
+      "has_synced": true,
+      "path": "select/05_Me,_Myself_&_I_Temperance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Me, Myself & I",
+      "artist": "Exodus",
+      "has_synced": true,
+      "path": "select/06_Me,_Myself_&_I_Exodus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Me, Myself and Time",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/07_Me,_Myself_and_Time_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Me, Myself & I",
+      "artist": "L7",
+      "has_synced": false,
+      "path": "select/08_Me,_Myself_&_I_L7.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Me, Myself and I",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/09_Me,_Myself_and_I_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I / Me / Myself",
+      "artist": "Will Wood",
+      "has_synced": true,
+      "path": "select/10_I___Me___Myself_Will_Wood.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Me Myself And I",
+      "artist": "Billie Holiday",
+      "has_synced": true,
+      "path": "select/11_Me_Myself_And_I_Billie_Holiday.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Me, Myself & I",
+      "artist": "G-Eazy X Bebe Rexha",
+      "has_synced": true,
+      "path": "select/12_Me,_Myself_&_I_G-Eazy_X_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Me, Myself & I",
+      "artist": "G-Eazy & Bebe Rexha",
+      "has_synced": true,
+      "path": "select/13_Me,_Myself_&_I_G-Eazy_&_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Me, Myself & I",
+      "artist": "G-Eazy, Bebe Rexha",
+      "has_synced": true,
+      "path": "select/14_Me,_Myself_&_I_G-Eazy,_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Me Myself & I",
+      "artist": "5 Seconds Of Summer",
+      "has_synced": false,
+      "path": "select/pl_01_Me_Myself_&_I_5_Seconds_Of_Summer.txt"
+    }
+  ]
+}
